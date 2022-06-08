@@ -11,6 +11,6 @@ program to work)
 
 Compability
 Windows 7:Not tested
-Windows 8:Not tested
+Windows 8:Works (Thanks to Groophy#1966 for telling me)
 Windows 10:Works
 Windows 11:Not tested
