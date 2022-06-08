@@ -1,0 +1,3 @@
+Using a hex editor (Prefarably HxD), change the first byte (First line) of the batch file to:
+FF FE 0A 0D
+Then, you're done.
