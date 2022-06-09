@@ -1,7 +1,7 @@
 # IP-Generator
 IP generator which will generate a random IP adress (Custom location may come in future!)
 
-This was made by oryx (oryx#4949)
+This was made by oryx/innerilluminati
 Thanks to Zeek for the help of malware removal on my personal computer
 Thanks to the batch community for being so welcoming
 
